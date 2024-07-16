@@ -95,7 +95,7 @@ void playGame() {
     }
 }
 
-int main() {
+int main() { 
     initializeBoard();
     playGame();
     return 0;
